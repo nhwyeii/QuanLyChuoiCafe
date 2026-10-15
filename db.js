@@ -2,7 +2,7 @@ import sql from 'mssql';
 
 const dbConfig = {
     user: 'sa',
-    password: 'Nhuy2@', // Thay bằng mật khẩu sa thực tế
+    password: 'Nhuy2@',
     server: '127.0.0.1',
     database: 'QuanLyChuoiCafe',
     port: 1433,
